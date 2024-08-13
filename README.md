@@ -19,7 +19,7 @@
 
 
 *** 
-Gayathri
+Gayathri.
 
 # Table of Contents
 
